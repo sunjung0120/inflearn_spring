@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HelloSpringApplication { //start
+public class HelloSpringApplication { //start project
 
 	public static void main(String[] args) {
 		SpringApplication.run(HelloSpringApplication.class, args);
